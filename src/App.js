@@ -10,13 +10,16 @@ import Contact from './Components/Contact';
 //import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
+//Added by Aakash
+//import rData from './resumeData';
+
 class App extends Component {
 
   constructor(props){
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData: {}
+        resumeData: {}
     };
 
     ReactGA.initialize('UA-110570651-1');
@@ -24,9 +27,9 @@ class App extends Component {
 
   }
 
-  getResumeData(){
+ getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url: $(location).attr('href')+'/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -43,7 +46,8 @@ class App extends Component {
     this.getResumeData();
   }
 
-  render() {
+    render() {
+        console.log(this.state.resumeData);
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>

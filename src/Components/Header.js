@@ -8,7 +8,7 @@ class Header extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var profilepic= "images/"+this.props.data.image;
+        var profilepic = $(location).attr('href')+"/images/"+this.props.data.image;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
         //<li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
