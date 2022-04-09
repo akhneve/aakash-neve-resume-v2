@@ -5,7 +5,10 @@
     "\\public",
     "\\public\\css",
     "\\public\\css\\fontello",
-    "\\public\\images"
+    "\\public\\images",
+    "\\src",
+    "\\src\\Components"
   ],
+  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }
