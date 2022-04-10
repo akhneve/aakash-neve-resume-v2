@@ -400,11 +400,11 @@ ul#nav li a:active { background-color: transparent !important; }
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
-  	height: 42px;
+  	height: 25px;
   	border-radius: 3px;
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font: 14px 'opensans-bold', sans-serif;
    color: #dedede;
 	text-transform: uppercase;
    letter-spacing: 2px;
@@ -420,7 +420,7 @@ ul#nav li a:active { background-color: transparent !important; }
 	padding-right: 24px;
 	background: #50a1a1;
 	display: inline-block;
-	height: 42px;
+	height: 25px;
 	line-height: 42px;
 	border-radius: 3px 0 0 3px;
 }
@@ -537,6 +537,7 @@ ul#nav li a:active { background-color: transparent !important; }
 	overflow: hidden;
 	position: relative;
 	border: 1px solid #fff;
+	margin: 0px auto;
 	
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;

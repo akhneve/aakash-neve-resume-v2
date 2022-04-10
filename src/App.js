@@ -10,9 +10,6 @@ import Contact from './Components/Contact';
 //import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
-//Added by Aakash
-//import rData from './resumeData';
-
 class App extends Component {
 
   constructor(props){
@@ -47,7 +44,6 @@ class App extends Component {
   }
 
     render() {
-        console.log(this.state.resumeData);
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
