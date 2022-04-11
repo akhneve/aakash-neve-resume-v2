@@ -45,9 +45,6 @@ class About extends Component {
             </div>
          </div>
             </div>
-            <div className="row work">
-                <div className="three columns header-col"></div>
-            </div>
    </section>
     );
   }

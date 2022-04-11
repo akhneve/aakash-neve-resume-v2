@@ -27,7 +27,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My work as a Decision/ Business Analyst has trained me levrage following tools and technology to solve the business problems and conduct the analytical operations. ",
+    "skillmessage": "My work as a Decision/ Business Analyst has trained me to leverage following tools and technology to solve the business problems and conduct the analytical operations. ",
     "education": [
       {
         "school": "National Institute of Technology, Surat",
@@ -74,7 +74,7 @@
           },
           {
             "id": "point4",
-            "point": "Worked on Machine Learning (ML) based marketing segmentation of Health care practitioners (HCPs) across geographies and products of a Fortune 500 client, which involved text mining, content tagging and several Ad-hoc analyses. Also, used collaborative filtering to predict the marketing channel and content preference of the HCPs based on data driven from historical emails, events and calls data."
+            "point": "Worked on Machine Learning (ML) based marketing segmentation of Health Care Practitioners (HCPs) across geographies and products of a Fortune 500 client, which involved text mining, content tagging and several Ad-hoc analyses. Also, used collaborative filtering to predict the marketing channel and content preference of the HCPs based on data driven from historical emails, events and calls data."
           }
 
         ]

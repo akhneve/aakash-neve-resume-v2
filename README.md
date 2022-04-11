@@ -11,7 +11,7 @@ This is a ReactJS based personal resume website. We have built this by beginning
 #### Ayushi Sharma
 <p>Feel free to connect with Ayushi on <a href="https://www.linkedin.com/in/ayushisharma97/">LinkedIn.</a></p>
 <p></p>
-<p>Ayushi's Resume <a href="https://ayushi97.github.io/">website</a></p>
+<p>Ayushi's Resume <a href="https://ayushiprofile.herokuapp.com/">website</a></p>
 
 #### HTML Design Template
 <a href="https://github.com/tbakerx/react-resume-template">Tim baker's react resume template</a>

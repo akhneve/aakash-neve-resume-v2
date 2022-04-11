@@ -105,7 +105,7 @@ class Header extends Component {
                     <img className="profile-pic" src={profilepic} alt="Aakash Neve Profile Pic" />
 
             <div className="responsive-headline">
-               Hi I'm <span className = "name-headline">{name}.</span>
+               Hi, I'm <span className = "name-headline">{name}.</span>
             <span className="wave-emoji" role="img" aria-label="waving hand">
                 👋
               </span></div>
