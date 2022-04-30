@@ -53,6 +53,8 @@ class Contact extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
+
+      var qrcode = $(location).attr('href') + "/images/" + this.props.data.qrcode;
     }
 
     return (
@@ -128,7 +130,12 @@ class Contact extends Component {
                      <br />
                      <span>{email}</span>
 					   </p>
-				   </div>
+                    </div>
+                    <div className="QR Code Contact">
+                        <h4>Scan the QR code to save the contact</h4>
+                        <p></p>
+                        <img className="QR-code" src={qrcode} alt="Aakash Neve QR Contact" />
+                    </div>
             </aside>
       </div>
    </section>
