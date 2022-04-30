@@ -3,12 +3,13 @@
     "",
     "\\.github",
     "\\public",
-    "\\public\\css",
+    "\\public\\css\\font-awesome",
     "\\public\\css\\fontello",
     "\\public\\images",
+    "\\public\\js",
     "\\src",
     "\\src\\Components"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\src\\Components\\Header.js",
   "PreviewInSolutionExplorer": false
 }

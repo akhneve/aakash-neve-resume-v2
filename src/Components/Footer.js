@@ -19,7 +19,7 @@ class Footer extends Component {
     </ul>*/}
 
            <ul className="copyright">
-                        <li>&copy; Made by  <a href="https://ayushiprofile.herokuapp.com/" target="_blank" rel='noopener noreferrer'> Ayushi Sharma</a> and Aakash Neve</li>
+                        <li>&copy; Made by  <a href="https://ayushi-resume.herokuapp.com/" target="_blank" rel='noopener noreferrer'> Ayushi Sharma</a> and Aakash Neve</li>
               
            </ul>
 

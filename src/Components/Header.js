@@ -5,9 +5,13 @@ import { BsLinkedin } from "react-icons/bs";
 
 class Header extends Component {
   render() {
-
     if(this.props.data){
-      var name = this.props.data.name;
+        var name = this.props.data.name;
+        var description = this.props.data.description;
+        var des1 = description[0];
+        var des2 = description[1];
+        var des3 = description[2];
+
         var profilepic = $(location).attr('href')+"/images/"+this.props.data.image;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
@@ -112,11 +116,7 @@ class Header extends Component {
             <h3 style={{font: "40px/30px 'opensans-bold', sans-serif"}}>
             <Typewriter
                 options={{
-                  strings: [
-                    'I like to analyse data.',
-                    'I love meeting new people.',
-                    'I create unique business solutions.',
-                  ],
+                  strings: [des1, des2, des3],
                   autoStart: true,
                   loop: true,
                   deleteSpeed: 10,
