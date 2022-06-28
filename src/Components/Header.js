@@ -84,7 +84,7 @@ class Header extends Component {
                direction: 'none',
                random: true,
                straight: false,
-               bounce: true,
+               bounce: false,
             },
             number: {
                value: 20,
