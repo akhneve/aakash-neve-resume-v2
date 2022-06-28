@@ -3,13 +3,11 @@
     "",
     "\\.github",
     "\\public",
-    "\\public\\css\\font-awesome",
-    "\\public\\css\\fontello",
     "\\public\\images",
     "\\public\\js",
     "\\src",
     "\\src\\Components"
   ],
-  "SelectedNode": "\\src\\Components\\Header.js",
+  "SelectedNode": "\\public\\resumeData.json",
   "PreviewInSolutionExplorer": false
 }

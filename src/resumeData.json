@@ -29,111 +29,109 @@
   "resume": {
     "skillmessage": "My work as a Decision/ Business Analyst has trained me levrage following tools and technology to solve the business problems and conduct the analytical operations. ",
     "education": [
-      {
-        "school": "National Institute of Technology, Surat",
+       {
+        "school": "National Institute of Technology, Surat, NW",
         "degree": "Bachelor of Technology in Electrical Engineering",
         "graduated": "July 2015 - May 2019",
         "description": [
           {
-            "id": "point1",
+            "id": "point5",
             "point": "Completed the graduation with a CGPA of 8.69 out of 10"
           },
           {
-            "id": "point2",
+            "id": "point6",
             "point": "Participated in a 10-hour mathematics research-a-thon on \"Optimization of Traffic\" where the vehicle traffic was modeled using differential equations."
           },
           {
-            "id": "point3",
+            "id": "point7",
             "point": "Worked as a Training and Placement (T&P) Coordinator for 2019 batch. As a T&P coordinator, worked closely with company representatives and students for the organisation and management of placement drives on campus."
           },
           {
-            "id": "point4",
+            "id": "point8",
             "point": "Secured a national finalist position in Datamaze -  a data analytics competition organized by FMS, Delhi amongst premier engineering and management institutions of India."
+          }]
           }
-        ]
+        ],
+        "work": [
+          {
+            "company": "ZS Associates",
+            "title": "Decision Analytics Associate",
+            "years": "December 2019 - April 2022",
+            "description": [
+              {
+                "id": "point1",
+                "point": "Designed and implemented Incentive compensation plans for both launch and mature products across multiple therapeutic areas and for several multinational biopharmaceutical clients."
+              },
+              {
+                "id": "point2",
+                "point": "Took the initiative of automating the existing quota setting process from the manual setup to improve the operational efficiency and time by more than 80% using PySpark and SQL."
+              },
+              {
+                "id": "point3",
+                "point": "Created an end-to-end contest design tool for the client to effectively manage the entire contest and its budget and consecutively streamline the entire process across all the business units using VBA resulting in reducing design time from one month to ten days."
+              },
+              {
+                "id": "point4",
+                "point": "Worked on Machine Learning (ML) based marketing segmentation of Health care practitioners (HCPs) across geographies and products of a Fortune 500 client, which involved text mining, content tagging and several Ad-hoc analyses. Also, used collaborative filtering to predict the marketing channel and content preference of the HCPs based on data driven from historical emails, events and calls data."
+              }
 
-      }
-    ],
-    "work": [
-      {
-        "company": "ZS Associates",
-        "title": "Decision Analytics Associate",
-        "years": "December 2019 - April 2022",
-        "description": [
-          {
-            "id": "point1",
-            "point": "Designed and implemented Incentive compensation plans for both launch and mature products across multiple therapeutic areas and for several multinational biopharmaceutical clients."
+            ]
           },
           {
-            "id": "point2",
-            "point": "Took the initiative of automating the existing quota setting process from the manual setup to improve the operational efficiency and time by more than 80% using PySpark and SQL."
-          },
-          {
-            "id": "point3",
-            "point": "Created an end-to-end contest design tool for the client to effectively manage the entire contest and its budget and consecutively streamline the entire process across all the business units using VBA resulting in reducing design time from one month to ten days."
-          },
-          {
-            "id": "point4",
-            "point": "Worked on Machine Learning (ML) based marketing segmentation of Health care practitioners (HCPs) across geographies and products of a Fortune 500 client, which involved text mining, content tagging and several Ad-hoc analyses. Also, used collaborative filtering to predict the marketing channel and content preference of the HCPs based on data driven from historical emails, events and calls data."
+            "company": "Tredence Analytics",
+            "title": "Business Analyst",
+            "years": "June 2019 - December 2019",
+            "description": [
+              {
+                "id": "point1",
+                "point": "Worked with world’s largest retailer brand to identify the impact of competitors on sales for each department and estimate the dollar value of this sales impact."
+              },
+              {
+                "id": "point2",
+                "point": "Analyzed the demographic data, store area information, location information and competitor data to identify the parameters that influence sales. Then further refined the parameters using Boruta feature selection and removing the multicollinearity among the parameters, created a Machine Learning (ML) model on R to predict the dollar value impact on the departmental store."
+              },
+              {
+                "id": "point3",
+                "point": "Created a dynamic dashboard based on the drill-down approach using Tableau, hence enabling the clients to track the impact and strategize accordingly."
+              }
+            ]
           }
-
+        ],
+        "skills": [
+          {
+            "name": "Python",
+            "level": "60%"
+          },
+          {
+            "name": "R",
+            "level": "40%"
+          },
+          {
+            "name": "Tableau",
+            "level": "50%"
+          },
+          {
+            "name": "SQL",
+            "level": "80%"
+          },
+          {
+            "name": "MS Excel",
+            "level": "90%"
+          },
+          {
+            "name": "VBA",
+            "level": "50%"
+          },
+          {
+            "name": "Statistics",
+            "level": "80%"
+          },
+          {
+            "name": "Machine learning",
+            "level": "50%"
+          }
         ]
       },
-      {
-        "company": "Tredence Analytics",
-        "title": "Business Analyst",
-        "years": "June 2019 - December 2019",
-        "description": [
-          {
-            "id": "point1",
-            "point": "Worked with world’s largest retailer brand to identify the impact of competitors on sales for each department and estimate the dollar value of this sales impact."
-          },
-          {
-            "id": "point2",
-            "point": "Analyzed the demographic data, store area information, location information and competitor data to identify the parameters that influence sales. Then further refined the parameters using Boruta feature selection and removing the multicollinearity among the parameters, created a Machine Learning (ML) model on R to predict the dollar value impact on the departmental store."
-          },
-          {
-            "id": "point3",
-            "point": "Created a dynamic dashboard based on the drill-down approach using Tableau, hence enabling the clients to track the impact and strategize accordingly."
-          }
-        ]
-      }
-    ],
-    "skills": [
-      {
-        "name": "Python",
-        "level": "60%"
-      },
-      {
-        "name": "R",
-        "level": "40%"
-      },
-      {
-        "name": "Tableau",
-        "level": "50%"
-      },
-      {
-        "name": "SQL",
-        "level": "80%"
-      },
-      {
-        "name": "MS Excel",
-        "level": "90%"
-      },
-      {
-        "name": "VBA",
-        "level": "50%"
-      },
-      {
-        "name": "Statistics",
-        "level": "80%"
-      },
-      {
-        "name": "Machine learning",
-        "level": "50%"
-      }
-    ]
-  },
   "portfolio": {
     "projects": [
       {

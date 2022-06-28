@@ -6,18 +6,18 @@
     "qrcode": "QR_code.png",
     "description": [ "I like to analyse data.", "I love meeting new people.", "I create unique business solutions." ],
     "avatar": "AN_avatar.png",
-    "bio": "I am an analytics professional with three years of experience in management consulting and a demonstrated history of providing data-driven business solutions to clients across various domains and geographies. I strive to provide high-quality solutions while creating a culture of excellence, motivation, and a strong value system. I love exploring, learning new skills, and looking at opinions from diverse perspectives. Feel free to connect and reach me out!",
+    "bio": "I am a Business Analytics graduate student at University of Washington with three years of experience in management consulting and a demonstrated history of providing data-driven business solutions to clients across various domains and geographies. I strive to provide high-quality solutions while creating a culture of excellence, motivation, and a strong value system. I love exploring, learning new skills, and looking at opinions from diverse perspectives. Feel free to connect and reach me out!",
     "contactmessage": "Please feel free to fill the below form and I will get in touch with you shortly :)",
     "email": "akhneve@gmail.com",
-    "phone": "+91-9033010060",
+    "phone": "+1(206)-786-6224",
     "address": {
-      "street": "20, Lakeview Society",
-      "city": "Ahmedabad ",
-      "state": "Gujarat, India",
-      "zip": "382443"
+      "street": "4253 7th Ave NE",
+      "city": "Seattle ",
+      "state": "Washington, USA",
+      "zip": "98105"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/19qQVBQUqlkcKU1kv8KY6jaJpv2T-vvL_/view",
+    "resumedownload": "https://drive.google.com/file/d/1mB_ooW6GE_jta0lM7Pnj8a4gPUXSkERZ/view",
     "social": [
 
       {
@@ -30,6 +30,17 @@
   "resume": {
     "skillmessage": "My work as a Decision/ Business Analyst has trained me to leverage following tools and technology to solve the business problems and conduct the analytical operations. ",
     "education": [
+      {
+        "school": "University of Washington, Seattle",
+        "degree": "Master of Science in Business Analytics",
+        "graduated": "June 2022 - Current",
+        "description": [
+          {
+            "id": "point1",
+            "point": "Working in team of 5 people to solve analytical projects and case studies"
+          }
+        ]
+      },
       {
         "school": "National Institute of Technology, Surat",
         "degree": "Bachelor of Technology in Electrical Engineering",
