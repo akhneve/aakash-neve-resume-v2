@@ -8,7 +8,7 @@
     "avatar": "AN_avatar.png",
     "bio": "I am a Business Analytics graduate student at University of Washington with three years of experience in management consulting and a demonstrated history of providing data-driven business solutions to clients across various domains and geographies. I strive to provide high-quality solutions while creating a culture of excellence, motivation, and a strong value system. I love exploring, learning new skills, and looking at opinions from diverse perspectives. Feel free to connect and reach me out!",
     "contactmessage": "Please feel free to fill the below form and I will get in touch with you shortly :)",
-    "email": "akhneve@gmail.com",
+    "email": "aneve@uw.edu",
     "phone": "+1(206)-786-6224",
     "address": {
       "street": "4253 7th Ave NE",
@@ -17,7 +17,7 @@
       "zip": "98105"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1hqfIq4FBJEPlC3iM6tJ0wVIcc6Y10DM1/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1TAf-NLj_Bd94RC-jr6tS87WTCOkjvXRi/view?usp=sharing",
     "social": [
 
       {
@@ -37,7 +37,11 @@
         "description": [
           {
             "id": "point1",
-            "point": "Working in team of 5 people to solve analytical projects and case studies"
+            "point": "Working in the Diversity, Equity and Inclusion sub-committee to ensure all the programs are inclusive of the people coming from diverse backgrounds and promote equity in all human and non-human entities"
+          },
+          {
+            "id": "point2",
+            "point": "Working part-time as a Program Coordinator with the Center for International Relations & Cultural Leadership Exchange at University of Washington to organize and run end-to-end operations of several large-scale cultural exchange and welcome programs for international undergraduate and graduate students of the university"
           }
         ]
       },
@@ -118,7 +122,7 @@
       },
       {
         "name": "R",
-        "level": "40%"
+        "level": "60%"
       },
       {
         "name": "Tableau",
@@ -138,7 +142,7 @@
       },
       {
         "name": "Statistics",
-        "level": "80%"
+        "level": "60%"
       },
       {
         "name": "Machine learning",
