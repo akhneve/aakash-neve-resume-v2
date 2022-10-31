@@ -1,13 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\public",
-    "\\public\\images",
-    "\\public\\js",
-    "\\src",
-    "\\src\\Components"
+    ""
   ],
-  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }

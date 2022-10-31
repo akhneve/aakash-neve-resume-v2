@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import $ from 'jquery';
 import Particles from "react-tsparticles";
 import Typewriter from 'typewriter-effect';
 import { BsLinkedin } from "react-icons/bs";
@@ -12,7 +13,7 @@ class Header extends Component {
         var des2 = description[1];
         var des3 = description[2];
 
-        var profilepic = $(location).attr('href')+"/images/"+this.props.data.image;
+        var profilepic = "/images/"+this.props.data.image;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
         //<li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>

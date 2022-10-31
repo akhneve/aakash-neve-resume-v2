@@ -4,7 +4,7 @@ class About extends Component {
   render() {
     if(this.props.data){
       var name = this.props.data.name;
-      var profilepic_avatar = $(location).attr('href')+"/images/"+this.props.data.avatar;
+      var profilepic_avatar = "/images/"+this.props.data.avatar;
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;

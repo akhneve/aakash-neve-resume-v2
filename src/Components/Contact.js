@@ -54,7 +54,7 @@ class Contact extends Component {
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
 
-      var qrcode = $(location).attr('href') + "/images/" + this.props.data.qrcode;
+      var qrcode = "/images/" + this.props.data.qrcode;
     }
 
     return (
